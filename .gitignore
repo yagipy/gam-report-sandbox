@@ -1,0 +1,9 @@
+.bsp
+.idea
+project/target
+target
+.DS_Store
+ads.properties
+report-via-api.csv
+report-via-builder.csv
+soap.log
